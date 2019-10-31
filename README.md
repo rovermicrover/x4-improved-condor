@@ -1,6 +1,6 @@
 # About
 
-The Condor is out classed by the Colossus in almost everyway. The Conodor compared to the Colossus has, 
+The Condor is out classed by the Colossus in almost every way. The Condor compared to the Colossus has, 
 
 * 1 less medium dock
 * 2 less small docks
@@ -30,9 +30,9 @@ This means while the Condor still does not have as much fire power as a Colossus
 
 # Links
 
-[Egosoft Forum]()
+[Egosoft Forum](https://forum.egosoft.com/viewtopic.php?f=181&t=419695)
 
-[Steam Workshop]()
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1902954509)
 
 [Github](https://github.com/rovermicrover/x4-improved-condor)
 
