@@ -16,7 +16,6 @@ This mod seeks to make the Condor worth while by,
 
 * Adding one more XL shield. 
 * Moves its L Turret Up Front
-* Adding 3 Medium Shields To The Engine Group
 
 This means while the Condor still does not have as much fire power as a Colossus it has a fair bit more shielding.
 
